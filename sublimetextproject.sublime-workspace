@@ -1,0 +1,264 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"Play()\tvoid"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Public/Documents/Unity Projects/MEATBOYCLONE/Assets/Scripts/destroy.cs",
+		"/C/Users/Public/Documents/Unity Projects/MEATBOYCLONE/Assets/Scripts/cannon.cs",
+		"/C/Users/Public/Documents/Unity Projects/MEATBOYCLONE/Assets/scripts/cannon.cs",
+		"/C/Users/Public/Documents/Unity Projects/MEATBOYCLONE/Assets/Scripts/CameraFollow.cs",
+		"/c/Users/Public/Documents/Unity Projects/MEATBOYCLONE/Assets/Scripts/cannon.cs",
+		"/C/Users/Public/Documents/Unity Projects/MEATBOYCLONE/sublimetextproject.sublime-project",
+		"/C/Users/Public/Documents/Unity Projects/MEATBOYCLONE/MEATBOYCLONE.sln",
+		"/C/Users/Public/Documents/Unity Projects/MEATBOYCLONE/becomeboxcodes.sublime-project",
+		"/C/Program Files/Unity/Editor/Data/Resources/ScriptTemplates/81-C# Script-NewBehaviourScript.cs.txt",
+		"/C/Users/Public/Documents/Unity Projects/MEATBOYCLONE/Assets/scripts/Playercontroller.cs",
+		"/C/Users/Public/Documents/Unity Projects/MEATBOYCLONE/Assets/scripts/player.cs",
+		"/C/Users/Public/Documents/Unity Projects/MEATBOYCLONE/Assets/scripts/RaycastController.cs",
+		"/C/Users/Public/Documents/Unity Projects/MEATBOYCLONE/Assets/scripts/LevelSelector.cs",
+		"/C/Users/burak/AppData/Local/Temp/Rar$DIa13756.7197/Instructions.txt",
+		"/C/Users/burak/AppData/Local/Temp/Rar$DIa13756.34115/Instructions.txt",
+		"/C/Users/burak/AppData/Local/Temp/Rar$DIa13756.6846/Serial.txt",
+		"/C/Users/burak/AppData/Local/Temp/Rar$DIa13756.9950/Serial.txt",
+		"/C/Program Files/Unity/Editor/Data/Resources/ScriptTemplates/83-C# Script-NewTestScript.cs.txt",
+		"/C/Users/burak/Desktop/81-C# Script-NewBehaviourScript.cs.txt",
+		"/C/Users/burak/AppData/Local/Temp/Rar$DIa5568.2622/How to Install - Patch.txt",
+		"/C/Users/burak/AppData/Local/Temp/Rar$DIa12392.37132/How to Install - Patch.txt",
+		"/C/Users/burak/AppData/Local/Temp/Rar$DIa22428.16536/Instructions.txt",
+		"/C/Users/burak/AppData/Local/Temp/Rar$DIa22428.15409/Info.txt",
+		"/C/Users/burak/Desktop/hosts",
+		"/C/Users/burak/Desktop/a.html",
+		"/C/Users/burak/Documents/My Games/Path of Exile/production_Config.ini",
+		"/C/Users/burak/AppData/Local/Temp/Rar$DIa14568.34897/LICENSE.txt",
+		"/C/Users/burak/AppData/Local/Temp/Rar$DIa12404.47421/AudioManager.cs",
+		"/C/Users/burak/Desktop/tosyeniroller.doc",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/burak/Desktop/asd.html",
+		"/C/Users/burak/Desktop/p4857.png",
+		"/C/Users/burak/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/burak/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/burak/AppData/Roaming/Sublime Text 3/Packages/User/1337.tmTheme",
+		"/C/Users/burak/Desktop/1337.tmTheme"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "sublimetextproject.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
